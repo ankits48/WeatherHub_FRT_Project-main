@@ -14,3 +14,4 @@ Other Azure Technologies:- Visual Studio Code, Git.
 
 Summary/Synopsis:- The WeatherHub application is able to provide accurate weather reports for different locations of the world all at a single place/hub. It supports different units of measurement of tempertaure(Celsius, Kelvin and Fahrenheit) and Speed of Wind(kph and mph). I used technologies such as HTML, CSS, JavaScript, Node.js and React to develop this application. The application is successfully deployed on Microsoft Azure using its Static Web Service and is ready to use by people. I hope it helps people to check weather reports of their destination all around the world.
 
+Project Demo URL:- https://lively-beach-0244f1d10.1.azurestaticapps.net
